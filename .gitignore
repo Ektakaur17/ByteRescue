@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+dist/
+build/
+*.spec
+
+# Virtual Environment
+venv/
+env/
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# Recovered files (user data - don't push)
+Recovered_Files/
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Logs
+*.log
